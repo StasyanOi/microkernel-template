@@ -6,5 +6,5 @@
 
 //vga 80 columns * 25 lines  
 void main() {
-  kprint("Hello world");
+  kprint("Hello world from kernel");
 }
